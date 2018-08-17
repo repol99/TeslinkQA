@@ -1,0 +1,32 @@
+	[18/Aug/17 02:28:45][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI]
+		Login for 'admin' from '::1' succeeded
+	[18/Aug/17 02:29:59][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Test Project ID : 1]
+		Test Project 'Testlink' was created
+	[18/Aug/17 02:48:48][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[18/Aug/17 02:48:54][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[18/Aug/17 02:52:53][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[18/Aug/17 02:53:00][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[18/Aug/17 03:04:40][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Test Project ID : 1]
+		User 'admin' was saved
+	[18/Aug/17 03:04:41][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		User 'admin' was saved
+	[18/Aug/17 03:05:04][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		Logout of 'admin'
+	[18/Aug/17 03:05:11][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[18/Aug/17 03:09:29][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		Logout of 'admin'
+	[18/Aug/17 03:09:34][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[18/Aug/17 03:09:40][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		Logout of 'admin'
+	[18/Aug/17 03:09:48][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[18/Aug/17 03:10:14][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		Logout of 'admin'
+	[18/Aug/17 03:10:21][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
+		Login for 'admin' from '::1' succeeded

@@ -1,0 +1,461 @@
+[>>][5b762d17d7630326245807][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:04:07]
+[<<][5b762d17d7630326245807][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:04:07][18/Aug/17 02:04:08][took 0.109167 secs]
+[>>][5b762e80d9694828687865][DEFAULT][/testlink/install/installNewDB.php][18/Aug/17 02:10:08]
+[<<][5b762e80d9694828687865][DEFAULT][/testlink/install/installNewDB.php][18/Aug/17 02:10:08][18/Aug/17 02:10:11][took 2.250239 secs]
+[>>][5b762ec927c43487116013][DEFAULT][/testlink/install/installNewDB.php][18/Aug/17 02:11:21]
+[<<][5b762ec927c43487116013][DEFAULT][/testlink/install/installNewDB.php][18/Aug/17 02:11:21][18/Aug/17 02:11:23][took 2.102651 secs]
+[>>][5b762f251e40d565706104][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:12:53]
+[<<][5b762f251e40d565706104][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:12:53][18/Aug/17 02:12:53][took 0.095054 secs]
+[>>][5b762f2d7b07c983831849][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:13:01]
+[<<][5b762f2d7b07c983831849][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:13:01][18/Aug/17 02:13:01][took 0.102669 secs]
+[>>][5b762f7fd2ba0325757067][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:14:23]
+[<<][5b762f7fd2ba0325757067][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:14:23][18/Aug/17 02:14:23][took 0.099279 secs]
+[>>][5b762f8310079187670369][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:14:27]
+[<<][5b762f8310079187670369][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:14:27][18/Aug/17 02:14:27][took 0.070198 secs]
+[>>][5b762fa05ea7c737294025][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:14:56]
+[<<][5b762fa05ea7c737294025][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:14:56][18/Aug/17 02:14:56][took 0.100219 secs]
+[>>][5b76307a2383a555067552][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:18:34]
+[<<][5b76307a2383a555067552][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:18:34][18/Aug/17 02:18:34][took 0.096527 secs]
+[>>][5b76312fc5349092497226][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:21:35]
+[<<][5b76312fc5349092497226][DEFAULT][/testlink/install/installCheck.php][18/Aug/17 02:21:35][18/Aug/17 02:21:35][took 0.075977 secs]
+[>>][5b7631fec03d0727226299][DEFAULT][/testlink/install/installNewDB.php][18/Aug/17 02:25:02]
+[<<][5b7631fec03d0727226299][DEFAULT][/testlink/install/installNewDB.php][18/Aug/17 02:25:02][18/Aug/17 02:25:04][took 2.114171 secs]
+[>>][5b76325205c38004424016][DEFAULT][/testlink/install/installNewDB.php][18/Aug/17 02:26:26]
+	[18/Aug/17 02:26:35][WARNING][<nosession>][GUI]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\install\installNewDB.php - Line 459
+	[18/Aug/17 02:26:35][WARNING][<nosession>][GUI]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\install\installNewDB.php - Line 463
+[<<][5b76325205c38004424016][DEFAULT][/testlink/install/installNewDB.php][18/Aug/17 02:26:26][18/Aug/17 02:26:41][took 15.151769 secs]
+[>>][5b7632d406783752516321][DEFAULT][/testlink/index.php][18/Aug/17 02:28:36]
+	[18/Aug/17 02:28:36][WARNING][<nosession>][GUI]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5b7632d406783752516321][DEFAULT][/testlink/index.php][18/Aug/17 02:28:36][18/Aug/17 02:28:36][took 0.092649 secs]
+[>>][5b7632d446180965406001][DEFAULT][/testlink/login.php][18/Aug/17 02:28:36]
+[<<][5b7632d446180965406001][DEFAULT][/testlink/login.php][18/Aug/17 02:28:36][18/Aug/17 02:28:36][took 0.160179 secs]
+[>>][5b7632d46d6a2959085880][DEFAULT][/testlink/login.php][18/Aug/17 02:28:36]
+	[18/Aug/17 02:28:36][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:28:36][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 02:28:36][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 02:28:36][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 02:28:37][L18N][<nosession>][GUI]
+		string 'oauth_login' is not localized for locale 'es_ES'  - using en_GB
+[<<][5b7632d46d6a2959085880][DEFAULT][/testlink/login.php][18/Aug/17 02:28:36][18/Aug/17 02:28:37][took 0.730284 secs]
+[>>][5b7632dc809ac082636031][DEFAULT][/testlink/login.php][18/Aug/17 02:28:44]
+[<<][5b7632dc809ac082636031][DEFAULT][/testlink/login.php][18/Aug/17 02:28:44][18/Aug/17 02:28:44][took 0.117783 secs]
+[>>][5b7632dc9d946366428409][DEFAULT][/testlink/login.php][18/Aug/17 02:28:44]
+	[18/Aug/17 02:28:44][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 02:28:44][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 02:28:44][WARNING][<nosession>][GUI]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+	[18/Aug/17 02:28:44][WARNING][<nosession>][GUI]
+		E_NOTICE
+Trying to get property 'auth' of non-object - in D:\xampp\htdocs\testlink\lib\functions\doAuthorize.php - Line 45
+	[18/Aug/17 02:28:44][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:28:44][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 02:28:44][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:28:44][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5b7632dc9d946366428409][DEFAULT][/testlink/login.php][18/Aug/17 02:28:44][18/Aug/17 02:28:44][took 0.31818 secs]
+[>>][5b7632dcf3ecb788256382][DEFAULT][/testlink/login.php][18/Aug/17 02:28:44]
+[>>][5b7632dd4ab39047433253][DEFAULT][/testlink/index.php][18/Aug/17 02:28:45]
+[>>][5b7632ddae768925755620][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:28:45]
+[>>][5b7632ddaf81d280891568][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:28:45]
+[>>][5b7632dec722d305805508][DEFAULT][/testlink/lib/project/projectEdit.php][18/Aug/17 02:28:46]
+[>>][5b7632f647d22314062040][DEFAULT][/testlink/index.php][18/Aug/17 02:29:10]
+[>>][5b7632f69c430113823440][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:29:10]
+[>>][5b7632f69f9b5441938703][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:29:10]
+[>>][5b7632f77ec0e876676054][DEFAULT][/testlink/lib/project/projectEdit.php][18/Aug/17 02:29:11]
+[>>][5b7633273c256873067999][DEFAULT][/testlink/lib/project/projectEdit.php][18/Aug/17 02:29:59]
+[>>][5b76332877afb896520979][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:30:00]
+[>>][5b76336c0beff138377192][DEFAULT][/testlink/lib/plugins/pluginView.php][18/Aug/17 02:31:08]
+[>>][5b76337697ccf866123557][DEFAULT][/testlink/index.php][18/Aug/17 02:31:18]
+[>>][5b76337700838568307358][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:31:19]
+[>>][5b763377026cd993348837][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:31:19]
+[>>][5b763395d157b535868941][DEFAULT][/testlink/index.php][18/Aug/17 02:31:49]
+[>>][5b76339630ff4508353353][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:31:50]
+[>>][5b76339632c66972740889][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:31:50]
+[>>][5b76339a13c87801165619][DEFAULT][/testlink/index.php][18/Aug/17 02:31:54]
+[>>][5b76339a72ddc144251863][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:31:54]
+[>>][5b76339a7314a782215807][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:31:54]
+[>>][5b7633a018b7e896777637][DEFAULT][/testlink/lib/plan/planView.php][18/Aug/17 02:32:00]
+[>>][5b7633a2cdb35155829236][DEFAULT][/testlink/lib/plan/planEdit.php][18/Aug/17 02:32:02]
+[>>][5b7633a7748f9252131172][DEFAULT][/testlink/lib/plan/planView.php][18/Aug/17 02:32:07]
+[>>][5b7633a8e06ad159200759][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:32:08]
+[>>][5b7633aa800ca984019990][DEFAULT][/testlink/index.php][18/Aug/17 02:32:10]
+[>>][5b7633aac6717935254090][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:32:10]
+[>>][5b7633aac983b834977099][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:32:10]
+[>>][5b76344e777f5186519850][DEFAULT][/testlink/index.php][18/Aug/17 02:34:54]
+[>>][5b76344ed999e491817378][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:34:54]
+[>>][5b76344edb3d9188157645][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:34:54]
+[>>][5b76370a43cd7373985349][DEFAULT][/testlink/index.php][18/Aug/17 02:46:34]
+[>>][5b76370ab82a0212546017][DEFAULT][/testlink/index.php][18/Aug/17 02:46:34]
+[>>][5b76370b3b3bf546827484][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:46:35]
+[>>][5b76370b3cd5f119329611][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:46:35]
+[>>][5b7637793f264539461763][DEFAULT][/testlink/lib/cfields/cfieldsView.php][18/Aug/17 02:48:25]
+[>>][5b76377c58a7d131862158][DEFAULT][/testlink/index.php][18/Aug/17 02:48:28]
+[>>][5b76377ca80a0766651682][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:48:28]
+[>>][5b76377ca9b71753376809][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:48:28]
+[>>][5b76378fbda10822147151][DEFAULT][/testlink/logout.php][18/Aug/17 02:48:47]
+[<<][5b7637900d53a555904850][DEFAULT][/testlink/logout.php][18/Aug/17 02:48:48][18/Aug/17 02:48:48][took 0.085503 secs]
+[>>][5b76379045c98370755874][DEFAULT][/testlink/login.php][18/Aug/17 02:48:48]
+[<<][5b76379045c98370755874][DEFAULT][/testlink/login.php][18/Aug/17 02:48:48][18/Aug/17 02:48:48][took 0.09754 secs]
+[>>][5b7637905dc27450579324][DEFAULT][/testlink/login.php][18/Aug/17 02:48:48]
+	[18/Aug/17 02:48:48][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:48:48][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 02:48:48][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 02:48:48][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 02:48:48][L18N][<nosession>][GUI]
+		string 'oauth_login' is not localized for locale 'es_ES'  - using en_GB
+[<<][5b7637905dc27450579324][DEFAULT][/testlink/login.php][18/Aug/17 02:48:48][18/Aug/17 02:48:48][took 0.295341 secs]
+[>>][5b7637956f3d5684599650][DEFAULT][/testlink/login.php][18/Aug/17 02:48:53]
+[<<][5b7637956f3d5684599650][DEFAULT][/testlink/login.php][18/Aug/17 02:48:53][18/Aug/17 02:48:53][took 0.095123 secs]
+[>>][5b76379586a10579665590][DEFAULT][/testlink/login.php][18/Aug/17 02:48:53]
+	[18/Aug/17 02:48:53][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 02:48:53][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 02:48:53][WARNING][<nosession>][GUI]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+	[18/Aug/17 02:48:53][WARNING][<nosession>][GUI]
+		E_NOTICE
+Trying to get property 'auth' of non-object - in D:\xampp\htdocs\testlink\lib\functions\doAuthorize.php - Line 45
+	[18/Aug/17 02:48:53][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:48:53][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 02:48:53][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:48:53][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5b76379586a10579665590][DEFAULT][/testlink/login.php][18/Aug/17 02:48:53][18/Aug/17 02:48:53][took 0.302832 secs]
+[>>][5b763795e2d4f163832836][DEFAULT][/testlink/login.php][18/Aug/17 02:48:53]
+[>>][5b763796261e2097983471][DEFAULT][/testlink/index.php][18/Aug/17 02:48:54]
+[>>][5b76379676635533102721][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:48:54]
+[>>][5b76379676fc4131791166][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:48:54]
+[>>][5b763878362f6837270882][DEFAULT][/testlink/index.php][18/Aug/17 02:52:40]
+[>>][5b7638788e296072224232][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:52:40]
+[>>][5b7638788e4be794441512][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:52:40]
+[>>][5b76387c5faea144080169][DEFAULT][/testlink/index.php][18/Aug/17 02:52:44]
+[>>][5b76387cc7302514923373][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:52:44]
+[>>][5b76387cc7c8c680454058][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:52:44]
+[>>][5b763880af12d384581083][DEFAULT][/testlink/index.php][18/Aug/17 02:52:48]
+[>>][5b76388119686413174613][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:52:49]
+[>>][5b76388119f20154996953][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:52:49]
+[>>][5b7638858625b804651674][DEFAULT][/testlink/logout.php][18/Aug/17 02:52:53]
+[<<][5b763885c6a42339323144][DEFAULT][/testlink/logout.php][18/Aug/17 02:52:53][18/Aug/17 02:52:53][took 0.05015 secs]
+[>>][5b763885e3db8802353280][DEFAULT][/testlink/login.php][18/Aug/17 02:52:53]
+[<<][5b763885e3db8802353280][DEFAULT][/testlink/login.php][18/Aug/17 02:52:53][18/Aug/17 02:52:54][took 0.106178 secs]
+[>>][5b76388609d3b175177463][DEFAULT][/testlink/login.php][18/Aug/17 02:52:54]
+	[18/Aug/17 02:52:54][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:52:54][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 02:52:54][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 02:52:54][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 02:52:54][L18N][<nosession>][GUI]
+		string 'oauth_login' is not localized for locale 'es_ES'  - using en_GB
+[<<][5b76388609d3b175177463][DEFAULT][/testlink/login.php][18/Aug/17 02:52:54][18/Aug/17 02:52:54][took 0.206952 secs]
+[>>][5b76388bbfec9899305522][DEFAULT][/testlink/login.php][18/Aug/17 02:52:59]
+[<<][5b76388bbfec9899305522][DEFAULT][/testlink/login.php][18/Aug/17 02:52:59][18/Aug/17 02:52:59][took 0.192925 secs]
+[>>][5b76388bef3d1015318703][DEFAULT][/testlink/login.php][18/Aug/17 02:52:59]
+	[18/Aug/17 02:52:59][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 02:53:00][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 02:53:00][WARNING][<nosession>][GUI]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+	[18/Aug/17 02:53:00][WARNING][<nosession>][GUI]
+		E_NOTICE
+Trying to get property 'auth' of non-object - in D:\xampp\htdocs\testlink\lib\functions\doAuthorize.php - Line 45
+	[18/Aug/17 02:53:00][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:53:00][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 02:53:00][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 02:53:00][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5b76388bef3d1015318703][DEFAULT][/testlink/login.php][18/Aug/17 02:52:59][18/Aug/17 02:53:00][took 0.317865 secs]
+[>>][5b76388c55f08696619880][DEFAULT][/testlink/login.php][18/Aug/17 02:53:00]
+[>>][5b76388c987b7122559697][DEFAULT][/testlink/index.php][18/Aug/17 02:53:00]
+[>>][5b76388cf2ca4676778960][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 02:53:00]
+[>>][5b76388d00c53238741556][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 02:53:01]
+[>>][5b763b2b59c95371069373][DEFAULT][/testlink/lib/usermanagement/usersView.php][18/Aug/17 03:04:11]
+[>>][5b763b33882f0560152800][DEFAULT][/testlink/lib/usermanagement/usersEdit.php][18/Aug/17 03:04:19]
+[>>][5b763b4843008849997233][DEFAULT][/testlink/lib/usermanagement/usersEdit.php][18/Aug/17 03:04:40]
+[>>][5b763b48e9a54880946507][DEFAULT][/testlink/lib/usermanagement/usersView.php][18/Aug/17 03:04:40]
+[>>][5b763b4949428134346485][DEFAULT][/testlink/lib/usermanagement/usersEdit.php][18/Aug/17 03:04:41]
+[>>][5b763b49e2465491398395][DEFAULT][/testlink/lib/usermanagement/usersView.php][18/Aug/17 03:04:41]
+[>>][5b763b4c20c18948666403][DEFAULT][/testlink/lib/usermanagement/usersEdit.php][18/Aug/17 03:04:44]
+[>>][5b763b4ed23d9241751283][DEFAULT][/testlink/lib/usermanagement/usersEdit.php][18/Aug/17 03:04:46]
+[>>][5b763b5568d71717391596][DEFAULT][/testlink/lib/usermanagement/usersEdit.php][18/Aug/17 03:04:53]
+[>>][5b763b59e8b12816416107][DEFAULT][/testlink/index.php][18/Aug/17 03:04:57]
+[>>][5b763b5a417b6745088110][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 03:04:58]
+[>>][5b763b5a430f8616185679][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 03:04:58]
+[>>][5b763b6038b8e257583506][DEFAULT][/testlink/logout.php][18/Aug/17 03:05:04]
+[<<][5b763b60826a4009094113][DEFAULT][/testlink/logout.php][18/Aug/17 03:05:04][18/Aug/17 03:05:04][took 0.05066 secs]
+[>>][5b763b60a3cdd895348094][DEFAULT][/testlink/login.php][18/Aug/17 03:05:04]
+[<<][5b763b60a3cdd895348094][DEFAULT][/testlink/login.php][18/Aug/17 03:05:04][18/Aug/17 03:05:04][took 0.094519 secs]
+[>>][5b763b60bb0e6022740367][DEFAULT][/testlink/login.php][18/Aug/17 03:05:04]
+	[18/Aug/17 03:05:04][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:05:04][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 03:05:04][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 03:05:05][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 03:05:05][L18N][<nosession>][GUI]
+		string 'oauth_login' is not localized for locale 'es_ES'  - using en_GB
+[<<][5b763b60bb0e6022740367][DEFAULT][/testlink/login.php][18/Aug/17 03:05:04][18/Aug/17 03:05:05][took 0.345415 secs]
+[>>][5b763b6702dd0418145329][DEFAULT][/testlink/login.php][18/Aug/17 03:05:11]
+[<<][5b763b6702dd0418145329][DEFAULT][/testlink/login.php][18/Aug/17 03:05:11][18/Aug/17 03:05:11][took 0.092883 secs]
+[>>][5b763b6719ed7338895111][DEFAULT][/testlink/login.php][18/Aug/17 03:05:11]
+	[18/Aug/17 03:05:11][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 03:05:11][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 03:05:11][WARNING][<nosession>][GUI]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+	[18/Aug/17 03:05:11][WARNING][<nosession>][GUI]
+		E_NOTICE
+Trying to get property 'auth' of non-object - in D:\xampp\htdocs\testlink\lib\functions\doAuthorize.php - Line 45
+	[18/Aug/17 03:05:11][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:05:11][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 03:05:11][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:05:11][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5b763b6719ed7338895111][DEFAULT][/testlink/login.php][18/Aug/17 03:05:11][18/Aug/17 03:05:11][took 0.312571 secs]
+[>>][5b763b676c450194231690][DEFAULT][/testlink/login.php][18/Aug/17 03:05:11]
+[>>][5b763b679d1fb222824861][DEFAULT][/testlink/index.php][18/Aug/17 03:05:11]
+[>>][5b763b67ef186595946366][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 03:05:11]
+[>>][5b763b67efc6a456021948][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 03:05:11]
+[>>][5b763c6915f6f970663057][DEFAULT][/testlink/logout.php][18/Aug/17 03:09:29]
+[<<][5b763c69500ac713966680][DEFAULT][/testlink/logout.php][18/Aug/17 03:09:29][18/Aug/17 03:09:29][took 0.051018 secs]
+[>>][5b763c6976c90064306303][DEFAULT][/testlink/login.php][18/Aug/17 03:09:29]
+[<<][5b763c6976c90064306303][DEFAULT][/testlink/login.php][18/Aug/17 03:09:29][18/Aug/17 03:09:29][took 0.075953 secs]
+[>>][5b763c698978e707750190][DEFAULT][/testlink/login.php][18/Aug/17 03:09:29]
+	[18/Aug/17 03:09:29][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:09:29][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 03:09:29][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 03:09:29][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 03:09:29][L18N][<nosession>][GUI]
+		string 'oauth_login' is not localized for locale 'es_ES'  - using en_GB
+[<<][5b763c698978e707750190][DEFAULT][/testlink/login.php][18/Aug/17 03:09:29][18/Aug/17 03:09:29][took 0.190548 secs]
+[>>][5b763c6e2f02f945343663][DEFAULT][/testlink/login.php][18/Aug/17 03:09:34]
+[<<][5b763c6e2f02f945343663][DEFAULT][/testlink/login.php][18/Aug/17 03:09:34][18/Aug/17 03:09:34][took 0.079559 secs]
+[>>][5b763c6e429e7015994307][DEFAULT][/testlink/login.php][18/Aug/17 03:09:34]
+	[18/Aug/17 03:09:34][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 03:09:34][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 03:09:34][WARNING][<nosession>][GUI]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+	[18/Aug/17 03:09:34][WARNING][<nosession>][GUI]
+		E_NOTICE
+Trying to get property 'auth' of non-object - in D:\xampp\htdocs\testlink\lib\functions\doAuthorize.php - Line 45
+	[18/Aug/17 03:09:34][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:09:34][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 03:09:34][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:09:34][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5b763c6e429e7015994307][DEFAULT][/testlink/login.php][18/Aug/17 03:09:34][18/Aug/17 03:09:34][took 0.280394 secs]
+[>>][5b763c6e93684167685872][DEFAULT][/testlink/login.php][18/Aug/17 03:09:34]
+[>>][5b763c6ed4017183905047][DEFAULT][/testlink/index.php][18/Aug/17 03:09:34]
+[>>][5b763c6f2cee2782643283][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 03:09:35]
+[>>][5b763c6f31519448847649][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 03:09:35]
+[>>][5b763c73cb4ac788900079][DEFAULT][/testlink/logout.php][18/Aug/17 03:09:39]
+[<<][5b763c7425665141437295][DEFAULT][/testlink/logout.php][18/Aug/17 03:09:40][18/Aug/17 03:09:40][took 0.075854 secs]
+[>>][5b763c745a350559718549][DEFAULT][/testlink/login.php][18/Aug/17 03:09:40]
+[<<][5b763c745a350559718549][DEFAULT][/testlink/login.php][18/Aug/17 03:09:40][18/Aug/17 03:09:40][took 0.102696 secs]
+[>>][5b763c7473737925872000][DEFAULT][/testlink/login.php][18/Aug/17 03:09:40]
+	[18/Aug/17 03:09:40][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:09:40][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 03:09:40][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 03:09:40][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 03:09:40][L18N][<nosession>][GUI]
+		string 'oauth_login' is not localized for locale 'es_ES'  - using en_GB
+[<<][5b763c7473737925872000][DEFAULT][/testlink/login.php][18/Aug/17 03:09:40][18/Aug/17 03:09:40][took 0.172096 secs]
+[>>][5b763c7ba733e678555434][DEFAULT][/testlink/login.php][18/Aug/17 03:09:47]
+[<<][5b763c7ba733e678555434][DEFAULT][/testlink/login.php][18/Aug/17 03:09:47][18/Aug/17 03:09:47][took 0.092507 secs]
+[>>][5b763c7bbdf66565748611][DEFAULT][/testlink/login.php][18/Aug/17 03:09:47]
+	[18/Aug/17 03:09:47][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 03:09:47][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 03:09:47][WARNING][<nosession>][GUI]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+	[18/Aug/17 03:09:47][WARNING][<nosession>][GUI]
+		E_NOTICE
+Trying to get property 'auth' of non-object - in D:\xampp\htdocs\testlink\lib\functions\doAuthorize.php - Line 45
+	[18/Aug/17 03:09:47][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:09:47][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 03:09:48][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:09:48][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5b763c7bbdf66565748611][DEFAULT][/testlink/login.php][18/Aug/17 03:09:47][18/Aug/17 03:09:48][took 0.282205 secs]
+[>>][5b763c7c14c54579558560][DEFAULT][/testlink/login.php][18/Aug/17 03:09:48]
+[>>][5b763c7c38d4b116103178][DEFAULT][/testlink/index.php][18/Aug/17 03:09:48]
+[>>][5b763c7c7aea8834966392][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 03:09:48]
+[>>][5b763c7c7bf58241989994][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 03:09:48]
+[>>][5b763c9626bc7583920840][DEFAULT][/testlink/logout.php][18/Aug/17 03:10:14]
+[<<][5b763c966476a123841545][DEFAULT][/testlink/logout.php][18/Aug/17 03:10:14][18/Aug/17 03:10:14][took 0.051148 secs]
+[>>][5b763c968b3a2976307013][DEFAULT][/testlink/login.php][18/Aug/17 03:10:14]
+[<<][5b763c968b3a2976307013][DEFAULT][/testlink/login.php][18/Aug/17 03:10:14][18/Aug/17 03:10:14][took 0.074233 secs]
+[>>][5b763c969d8df661017266][DEFAULT][/testlink/login.php][18/Aug/17 03:10:14]
+	[18/Aug/17 03:10:14][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:10:14][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 03:10:14][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 03:10:14][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 03:10:14][L18N][<nosession>][GUI]
+		string 'oauth_login' is not localized for locale 'es_ES'  - using en_GB
+[<<][5b763c969d8df661017266][DEFAULT][/testlink/login.php][18/Aug/17 03:10:14][18/Aug/17 03:10:14][took 0.168192 secs]
+[>>][5b763c9d31ba4976660150][DEFAULT][/testlink/login.php][18/Aug/17 03:10:21]
+[<<][5b763c9d31ba4976660150][DEFAULT][/testlink/login.php][18/Aug/17 03:10:21][18/Aug/17 03:10:21][took 0.092428 secs]
+[>>][5b763c9d4875c445950369][DEFAULT][/testlink/login.php][18/Aug/17 03:10:21]
+	[18/Aug/17 03:10:21][WARNING][<nosession>][GUI]
+		config option not available: OAuthServers
+	[18/Aug/17 03:10:21][WARNING][<nosession>][GUI]
+		E_WARNING
+Invalid argument supplied for foreach() - in D:\xampp\htdocs\testlink\login.php - Line 206
+	[18/Aug/17 03:10:21][WARNING][<nosession>][GUI]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+	[18/Aug/17 03:10:21][WARNING][<nosession>][GUI]
+		E_NOTICE
+Trying to get property 'auth' of non-object - in D:\xampp\htdocs\testlink\lib\functions\doAuthorize.php - Line 45
+	[18/Aug/17 03:10:21][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:10:21][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Aug/17 03:10:21][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Aug/17 03:10:21][WARNING][<nosession>][GUI]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5b763c9d4875c445950369][DEFAULT][/testlink/login.php][18/Aug/17 03:10:21][18/Aug/17 03:10:21][took 0.356484 secs]
+[>>][5b763c9dab9db806872161][DEFAULT][/testlink/login.php][18/Aug/17 03:10:21]
+[>>][5b763c9dec7e8514574895][DEFAULT][/testlink/index.php][18/Aug/17 03:10:21]
+[>>][5b763c9e6d2bd892807153][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 03:10:22]
+[>>][5b763c9e6f0a6492284314][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 03:10:22]
+[>>][5b763d3a59c9a970323688][DEFAULT][/testlink/lib/platforms/platformsView.php][18/Aug/17 03:12:58]
+[>>][5b763d3d33e55461976479][DEFAULT][/testlink/lib/platforms/platformsEdit.php][18/Aug/17 03:13:01]
+[>>][5b763d41014d2338793594][DEFAULT][/testlink/lib/platforms/platformsView.php][18/Aug/17 03:13:05]
+[>>][5b763d452ce41066408193][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Aug/17 03:13:09]
+[>>][5b763d45985ad854933598][DEFAULT][/testlink/lib/testcases/listTestCases.php][18/Aug/17 03:13:09]
+[>>][5b763d459a967643899648][DEFAULT][/testlink/lib/testcases/archiveData.php][18/Aug/17 03:13:09]
+[>>][5b763d46b7ca5878593641][DEFAULT][/testlink/lib/ajax/gettprojectnodes.php][18/Aug/17 03:13:10]
+[>>][5b763d5aed639884329287][DEFAULT][/testlink/lib/events/eventviewer.php][18/Aug/17 03:13:30]
+[>>][5b763d72e6fe8716589025][DEFAULT][/testlink/index.php][18/Aug/17 03:13:54]
+[>>][5b763d734a94a605489369][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 03:13:55]
+[>>][5b763d734bad9331168185][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 03:13:55]
+[>>][5b763d7763852838997499][DEFAULT][/testlink/lib/cfields/cfieldsView.php][18/Aug/17 03:13:59]
+[>>][5b763d83b69d3510051690][DEFAULT][/testlink/lib/plugins/pluginView.php][18/Aug/17 03:14:11]
+[>>][5b763d8c42c19720326664][DEFAULT][/testlink/lib/plugins/pluginView.php][18/Aug/17 03:14:20]
+[>>][5b763d9161e2d824844123][DEFAULT][/testlink/index.php][18/Aug/17 03:14:25]
+[>>][5b763d91bc795086464928][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 03:14:25]
+[>>][5b763d91bf9a7310809051][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 03:14:25]
+[>>][5b763d9de9142387011279][DEFAULT][/testlink/lib/plugins/pluginView.php][18/Aug/17 03:14:37]
+[>>][5b763da1dcc1b559943568][DEFAULT][/testlink/lib/plugins/pluginView.php][18/Aug/17 03:14:41]
+[>>][5b763da4cdedf529296254][DEFAULT][/testlink/index.php][18/Aug/17 03:14:44]
+[>>][5b763da533e45085304510][DEFAULT][/testlink/lib/general/navBar.php][18/Aug/17 03:14:45]
+[>>][5b763da536543545373737][DEFAULT][/testlink/lib/general/mainPage.php][18/Aug/17 03:14:45]
