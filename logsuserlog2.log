@@ -1,0 +1,940 @@
+	[18/Sep/24 21:43:59][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Login for 'usuario' from '::1' succeeded
+[<<][5ba95a9fd69b4898160252][DEFAULT][/testlink/login.php][18/Sep/24 21:43:59][18/Sep/24 21:43:59][took 0.091906 secs]
+	[18/Sep/24 21:44:00][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95aa00e9c9951076292][DEFAULT][/testlink/index.php][18/Sep/24 21:44:00][18/Sep/24 21:44:00][took 0.074522 secs]
+[>>][5ba95aa020fbf790593992][DEFAULT][/testlink/index.php][18/Sep/24 21:44:00]
+	[18/Sep/24 21:44:00][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:44:00][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95aa020fbf790593992][DEFAULT][/testlink/index.php][18/Sep/24 21:44:00][18/Sep/24 21:44:00][took 0.086919 secs]
+	[18/Sep/24 21:44:00][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95aa04706a754761702][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:44:00][18/Sep/24 21:44:00][took 0.071685 secs]
+[>>][5ba95aa058b39325041838][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:44:00]
+	[18/Sep/24 21:44:00][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:44:00][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95aa058b39325041838][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:44:00][18/Sep/24 21:44:00][took 0.085399 secs]
+[>>][5ba95aa078cad472486591][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:44:00]
+	[18/Sep/24 21:44:00][L18N][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		string 'full_text_search' is not localized for locale 'es_ES'  - using en_GB
+[<<][5ba95aa078cad472486591][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:44:00][18/Sep/24 21:44:00][took 0.068451 secs]
+	[18/Sep/24 21:44:00][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95aa049273935743985][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:44:00][18/Sep/24 21:44:00][took 0.338141 secs]
+[>>][5ba95aa09bd75479150433][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:44:00]
+	[18/Sep/24 21:44:00][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:44:00][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95aa09bd75479150433][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:44:00][18/Sep/24 21:44:00][took 0.268608 secs]
+[>>][5ba95aa0e6d72990996074][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:44:00]
+	[18/Sep/24 21:44:00][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:44:01][L18N][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		string 'href_exec_ro_access' is not localized for locale 'es_ES'  - using en_GB
+	[18/Sep/24 21:44:01][L18N][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		string 'href_codetracker_management' is not localized for locale 'es_ES'  - using en_GB
+	[18/Sep/24 21:44:01][L18N][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		string 'href_req_monitor_overview' is not localized for locale 'es_ES'  - using en_GB
+	[18/Sep/24 21:44:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5ba95aa0e6d72990996074][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:44:00][18/Sep/24 21:44:01][took 0.267723 secs]
+	[18/Sep/24 21:45:48][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b0c2bdb4851005973][DEFAULT][/testlink/lib/plan/buildView.php][18/Sep/24 21:45:48][18/Sep/24 21:45:48][took 0.063992 secs]
+[>>][5ba95b0c3bc01131479243][DEFAULT][/testlink/lib/plan/buildView.php][18/Sep/24 21:45:48]
+	[18/Sep/24 21:45:48][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:45:48][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b0c3bc01131479243][DEFAULT][/testlink/lib/plan/buildView.php][18/Sep/24 21:45:48][18/Sep/24 21:45:48][took 0.188402 secs]
+[>>][5ba95b0c74cc4857786494][DEFAULT][/testlink/lib/plan/buildView.php][18/Sep/24 21:45:48]
+[<<][5ba95b0c74cc4857786494][DEFAULT][/testlink/lib/plan/buildView.php][18/Sep/24 21:45:48][18/Sep/24 21:45:48][took 0.084546 secs]
+	[18/Sep/24 21:45:51][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b0f90eb8381045762][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:45:51][18/Sep/24 21:45:51][took 0.065241 secs]
+[>>][5ba95b0fa0f2f013093721][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:45:51]
+	[18/Sep/24 21:45:51][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:45:51][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b0fa0f2f013093721][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:45:51][18/Sep/24 21:45:51][took 0.15803 secs]
+[>>][5ba95b0fd26ed414377434][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:45:51]
+	[18/Sep/24 21:45:51][L18N][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		string 'with_exec_status' is not localized for locale 'es_ES'  - using en_GB
+	[18/Sep/24 21:45:52][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: selected - in D:\xampp\htdocs\testlink\gui\templates_c\1ac84c56b3d5147387caa9890179915777f6bf0e.file.buildEdit.tpl.php - Line 217
+[<<][5ba95b0fd26ed414377434][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:45:51][18/Sep/24 21:45:52][took 0,233722 secs]
+	[18/Sep/24 21:46:13][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b25d8567864010149][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:46:13][18/Sep/24 21:46:13][took 0.063771 secs]
+[>>][5ba95b25e80ff575758703][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:46:13]
+	[18/Sep/24 21:46:13][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:46:14][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b25e80ff575758703][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:46:13][18/Sep/24 21:46:14][took 0.158352 secs]
+[>>][5ba95b261fc18827467654][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:46:14]
+	[18/Sep/24 21:46:14][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Test Project 'Testing Lubricentro' - Test Plan 'Plan de prueba 1' - Build 'Build plan de prueba 1 tester' was created
+[<<][5ba95b261fc18827467654][DEFAULT][/testlink/lib/plan/buildEdit.php][18/Sep/24 21:46:14][18/Sep/24 21:46:14][took 0.271934 secs]
+	[18/Sep/24 21:46:17][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b293bd02605141294][DEFAULT][/testlink/index.php][18/Sep/24 21:46:17][18/Sep/24 21:46:17][took 0.069503 secs]
+[>>][5ba95b294ce3a363569182][DEFAULT][/testlink/index.php][18/Sep/24 21:46:17]
+	[18/Sep/24 21:46:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:46:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b294ce3a363569182][DEFAULT][/testlink/index.php][18/Sep/24 21:46:17][18/Sep/24 21:46:17][took 0.189615 secs]
+	[18/Sep/24 21:46:17][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b299c4eb782542358][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:46:17][18/Sep/24 21:46:17][took 0.072789 secs]
+[>>][5ba95b29ae30a054374932][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:46:17]
+	[18/Sep/24 21:46:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:46:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b29ae30a054374932][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:46:17][18/Sep/24 21:46:17][took 0.134353 secs]
+[>>][5ba95b29d88c3979119014][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:46:17]
+[<<][5ba95b29d88c3979119014][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:46:17][18/Sep/24 21:46:17][took 0.020137 secs]
+	[18/Sep/24 21:46:17][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b299e980470145178][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:46:17][18/Sep/24 21:46:17][took 0.297355 secs]
+[>>][5ba95b29e766f910373407][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:46:17]
+	[18/Sep/24 21:46:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:46:18][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b29e766f910373407][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:46:17][18/Sep/24 21:46:18][took 0.082673 secs]
+[>>][5ba95b2a13422210393407][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:46:18]
+	[18/Sep/24 21:46:18][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5ba95b2a13422210393407][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:46:18][18/Sep/24 21:46:18][took 0.109751 secs]
+	[18/Sep/24 21:47:00][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b54dd5aa423250299][DEFAULT][/testlink/lib/keywords/keywordsView.php][18/Sep/24 21:47:00][18/Sep/24 21:47:00][took 0.066795 secs]
+[>>][5ba95b54edc20616383465][DEFAULT][/testlink/lib/keywords/keywordsView.php][18/Sep/24 21:47:00]
+	[18/Sep/24 21:47:00][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:47:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b54edc20616383465][DEFAULT][/testlink/lib/keywords/keywordsView.php][18/Sep/24 21:47:00][18/Sep/24 21:47:01][took 0.127113 secs]
+[>>][5ba95b5523ddd920237466][DEFAULT][/testlink/lib/keywords/keywordsView.php][18/Sep/24 21:47:01]
+	[18/Sep/24 21:47:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\object.class.php - Line 621
+[<<][5ba95b5523ddd920237466][DEFAULT][/testlink/lib/keywords/keywordsView.php][18/Sep/24 21:47:01][18/Sep/24 21:47:01][took 0.185726 secs]
+	[18/Sep/24 21:47:21][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b6900ee1467748310][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:21][18/Sep/24 21:47:21][took 0.071291 secs]
+[>>][5ba95b6912775315047857][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:21]
+	[18/Sep/24 21:47:21][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:47:21][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b6912775315047857][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:21][18/Sep/24 21:47:21][took 0.115689 secs]
+[>>][5ba95b6933bcc770730711][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:21]
+[<<][5ba95b6933bcc770730711][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:21][18/Sep/24 21:47:21][took 0.063714 secs]
+	[18/Sep/24 21:47:45][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b81bc111415260390][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:45][18/Sep/24 21:47:45][took 0.070286 secs]
+[>>][5ba95b81cd581134587565][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:45]
+	[18/Sep/24 21:47:45][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:47:45][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b81cd581134587565][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:45][18/Sep/24 21:47:45][took 0.133833 secs]
+[>>][5ba95b82072da399321802][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:46]
+	[18/Sep/24 21:47:46][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Critica' was created
+	[18/Sep/24 21:47:46][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined property: stdClass::$canAssign - in D:\xampp\htdocs\testlink\gui\templates_c\e473071cab83959e20c29d14d730a970251804ed.file.keywordsView.tpl.php - Line 155
+[<<][5ba95b82072da399321802][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:46][18/Sep/24 21:47:46][took 0.13352 secs]
+	[18/Sep/24 21:47:52][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b88b21fa485089269][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:52][18/Sep/24 21:47:52][took 0.06791 secs]
+[>>][5ba95b88c2ce1501987302][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:52]
+	[18/Sep/24 21:47:52][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:47:52][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b88c2ce1501987302][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:52][18/Sep/24 21:47:52][took 0.135353 secs]
+[>>][5ba95b88e9031429101479][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:52]
+[<<][5ba95b88e9031429101479][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:47:52][18/Sep/24 21:47:52][took 0.022627 secs]
+	[18/Sep/24 21:48:01][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b9128670527023246][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:01][18/Sep/24 21:48:01][took 0.06464 secs]
+[>>][5ba95b913856e841926184][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:01]
+	[18/Sep/24 21:48:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:48:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b913856e841926184][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:01][18/Sep/24 21:48:01][took 0.143836 secs]
+[>>][5ba95b9166b56049258464][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:01]
+	[18/Sep/24 21:48:01][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Critica' was saved
+	[18/Sep/24 21:48:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined property: stdClass::$canAssign - in D:\xampp\htdocs\testlink\gui\templates_c\e473071cab83959e20c29d14d730a970251804ed.file.keywordsView.tpl.php - Line 155
+[<<][5ba95b9166b56049258464][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:01][18/Sep/24 21:48:01][took 0.133786 secs]
+	[18/Sep/24 21:48:02][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95b9282ed4627362052][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:02][18/Sep/24 21:48:02][took 0.064336 secs]
+[>>][5ba95b9292bc4349569695][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:02]
+	[18/Sep/24 21:48:02][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:48:02][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95b9292bc4349569695][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:02][18/Sep/24 21:48:02][took 0.117058 secs]
+[>>][5ba95b92b4069543260554][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:02]
+[<<][5ba95b92b4069543260554][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:02][18/Sep/24 21:48:02][took 0.016861 secs]
+	[18/Sep/24 21:48:47][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95bbf005aa814465967][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:47][18/Sep/24 21:48:47][took 0.067967 secs]
+[>>][5ba95bbf1110f176337695][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:47]
+	[18/Sep/24 21:48:47][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:48:47][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95bbf1110f176337695][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:47][18/Sep/24 21:48:47][took 0.154935 secs]
+[>>][5ba95bbf4264b483351097][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:47]
+	[18/Sep/24 21:48:47][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Alta' was created
+	[18/Sep/24 21:48:47][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined property: stdClass::$canAssign - in D:\xampp\htdocs\testlink\gui\templates_c\e473071cab83959e20c29d14d730a970251804ed.file.keywordsView.tpl.php - Line 155
+[<<][5ba95bbf4264b483351097][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:47][18/Sep/24 21:48:47][took 0.199816 secs]
+	[18/Sep/24 21:48:48][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95bc079ae9813048511][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:48][18/Sep/24 21:48:48][took 0.066498 secs]
+[>>][5ba95bc08a028505696505][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:48]
+	[18/Sep/24 21:48:48][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:48:48][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95bc08a028505696505][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:48][18/Sep/24 21:48:48][took 0.119304 secs]
+[>>][5ba95bc0b0301604692096][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:48]
+[<<][5ba95bc0b0301604692096][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:48:48][18/Sep/24 21:48:48][took 0.020397 secs]
+	[18/Sep/24 21:49:01][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95bcd5c752617876558][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:01][18/Sep/24 21:49:01][took 0.054305 secs]
+[>>][5ba95bcd69d4e725533875][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:01]
+	[18/Sep/24 21:49:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:49:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95bcd69d4e725533875][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:01][18/Sep/24 21:49:01][took 0.201749 secs]
+[>>][5ba95bcd9ff76981163089][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:01]
+	[18/Sep/24 21:49:01][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Media' was created
+	[18/Sep/24 21:49:01][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined property: stdClass::$canAssign - in D:\xampp\htdocs\testlink\gui\templates_c\e473071cab83959e20c29d14d730a970251804ed.file.keywordsView.tpl.php - Line 155
+[<<][5ba95bcd9ff76981163089][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:01][18/Sep/24 21:49:01][took 0.11654 secs]
+	[18/Sep/24 21:49:02][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95bceb06b5679818413][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:02][18/Sep/24 21:49:02][took 0.061553 secs]
+[>>][5ba95bcebf961815620753][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:02]
+	[18/Sep/24 21:49:02][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:49:02][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95bcebf961815620753][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:02][18/Sep/24 21:49:02][took 0.189626 secs]
+[>>][5ba95bcef369e704647754][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:02]
+[<<][5ba95bcef369e704647754][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:02][18/Sep/24 21:49:03][took 0.018314 secs]
+	[18/Sep/24 21:49:12][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95bd8cc1ac010477733][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:12][18/Sep/24 21:49:12][took 0.057475 secs]
+[>>][5ba95bd8da3e4695320123][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:12]
+	[18/Sep/24 21:49:12][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:49:12][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95bd8da3e4695320123][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:12][18/Sep/24 21:49:12][took 0.091459 secs]
+[>>][5ba95bd90146a512169555][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:13]
+	[18/Sep/24 21:49:13][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Baja' was created
+	[18/Sep/24 21:49:13][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined property: stdClass::$canAssign - in D:\xampp\htdocs\testlink\gui\templates_c\e473071cab83959e20c29d14d730a970251804ed.file.keywordsView.tpl.php - Line 155
+[<<][5ba95bd90146a512169555][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:13][18/Sep/24 21:49:13][took 0.158886 secs]
+	[18/Sep/24 21:49:46][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95bfa09ca3280266659][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:46][18/Sep/24 21:49:46][took 0.066639 secs]
+[>>][5ba95bfa1a335979676219][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:46]
+	[18/Sep/24 21:49:46][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:49:46][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95bfa1a335979676219][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:46][18/Sep/24 21:49:46][took 0.175174 secs]
+[>>][5ba95bfa507e2801327863][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:46]
+[<<][5ba95bfa507e2801327863][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:46][18/Sep/24 21:49:46][took 0.020849 secs]
+	[18/Sep/24 21:49:50][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95bfe2b243567882977][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:50][18/Sep/24 21:49:50][took 0.05577 secs]
+[>>][5ba95bfe38e77707495509][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:50]
+	[18/Sep/24 21:49:50][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:49:50][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95bfe38e77707495509][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:50][18/Sep/24 21:49:50][took 0.160078 secs]
+[>>][5ba95bfe6d12a670218814][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:50]
+	[18/Sep/24 21:49:50][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Baja' was saved
+	[18/Sep/24 21:49:50][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined property: stdClass::$canAssign - in D:\xampp\htdocs\testlink\gui\templates_c\e473071cab83959e20c29d14d730a970251804ed.file.keywordsView.tpl.php - Line 155
+[<<][5ba95bfe6d12a670218814][DEFAULT][/testlink/lib/keywords/keywordsEdit.php][18/Sep/24 21:49:50][18/Sep/24 21:49:50][took 0.150528 secs]
+	[18/Sep/24 21:52:38][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95ca683372760857710][DEFAULT][/testlink/index.php][18/Sep/24 21:52:38][18/Sep/24 21:52:38][took 0.062306 secs]
+[>>][5ba95ca6928de377998686][DEFAULT][/testlink/index.php][18/Sep/24 21:52:38]
+	[18/Sep/24 21:52:38][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:52:38][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95ca6928de377998686][DEFAULT][/testlink/index.php][18/Sep/24 21:52:38][18/Sep/24 21:52:38][took 0.106464 secs]
+	[18/Sep/24 21:52:38][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95ca6ce76c943990390][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:52:38][18/Sep/24 21:52:38][took 0.067988 secs]
+[>>][5ba95ca6df2dc730444534][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:52:38]
+	[18/Sep/24 21:52:38][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:52:39][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95ca6df2dc730444534][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:52:38][18/Sep/24 21:52:39][took 0.154563 secs]
+[>>][5ba95ca71c223837560762][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:52:39]
+[<<][5ba95ca71c223837560762][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:52:39][18/Sep/24 21:52:39][took 0.037811 secs]
+	[18/Sep/24 21:52:39][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95ca6cfb20305681131][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:52:38][18/Sep/24 21:52:39][took 0.341242 secs]
+[>>][5ba95ca72f00b169750261][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:52:39]
+	[18/Sep/24 21:52:39][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:52:39][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95ca72f00b169750261][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:52:39][18/Sep/24 21:52:39][took 0.076416 secs]
+[>>][5ba95ca746d50713381252][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:52:39]
+	[18/Sep/24 21:52:39][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5ba95ca746d50713381252][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:52:39][18/Sep/24 21:52:39][took 0.099704 secs]
+	[18/Sep/24 21:52:45][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95cadd82e2090234152][DEFAULT][/testlink/lib/inventory/inventoryView.php][18/Sep/24 21:52:45][18/Sep/24 21:52:45][took 0.070791 secs]
+[>>][5ba95cade98f3823845792][DEFAULT][/testlink/lib/inventory/inventoryView.php][18/Sep/24 21:52:45]
+	[18/Sep/24 21:52:45][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:52:46][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95cade98f3823845792][DEFAULT][/testlink/lib/inventory/inventoryView.php][18/Sep/24 21:52:45][18/Sep/24 21:52:46][took 0.16948 secs]
+[>>][5ba95cae2beb2055939994][DEFAULT][/testlink/lib/inventory/inventoryView.php][18/Sep/24 21:52:46]
+[<<][5ba95cae2beb2055939994][DEFAULT][/testlink/lib/inventory/inventoryView.php][18/Sep/24 21:52:46][18/Sep/24 21:52:46][took 0.07701 secs]
+	[18/Sep/24 21:52:46][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95cae71692747397871][DEFAULT][/testlink/lib/inventory/getInventory.php][18/Sep/24 21:52:46][18/Sep/24 21:52:46][took 0.069768 secs]
+[>>][5ba95cae8297e140050119][DEFAULT][/testlink/lib/inventory/getInventory.php][18/Sep/24 21:52:46]
+	[18/Sep/24 21:52:46][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:52:46][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95cae8297e140050119][DEFAULT][/testlink/lib/inventory/getInventory.php][18/Sep/24 21:52:46][18/Sep/24 21:52:46][took 0.151183 secs]
+[>>][5ba95caeb0a81660555532][DEFAULT][/testlink/lib/inventory/getInventory.php][18/Sep/24 21:52:46]
+[<<][5ba95caeb0a81660555532][DEFAULT][/testlink/lib/inventory/getInventory.php][18/Sep/24 21:52:46][18/Sep/24 21:52:46][took 0.017566 secs]
+	[18/Sep/24 21:52:46][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95cae77095688455593][DEFAULT][/testlink/lib/ajax/getUsersWithRight.php][18/Sep/24 21:52:46][18/Sep/24 21:52:46][took 0.291397 secs]
+[>>][5ba95caebe4a2511513354][DEFAULT][/testlink/lib/ajax/getUsersWithRight.php][18/Sep/24 21:52:46]
+	[18/Sep/24 21:52:46][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:52:46][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95caebe4a2511513354][DEFAULT][/testlink/lib/ajax/getUsersWithRight.php][18/Sep/24 21:52:46][18/Sep/24 21:52:46][took 0.082656 secs]
+[>>][5ba95caed73a4733464206][DEFAULT][/testlink/lib/ajax/getUsersWithRight.php][18/Sep/24 21:52:46]
+[<<][5ba95caed73a4733464206][DEFAULT][/testlink/lib/ajax/getUsersWithRight.php][18/Sep/24 21:52:46][18/Sep/24 21:52:46][took 0.011286 secs]
+	[18/Sep/24 21:55:09][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95d3d2f649049670679][DEFAULT][/testlink/lib/inventory/setInventory.php][18/Sep/24 21:55:09][18/Sep/24 21:55:09][took 0.070171 secs]
+[>>][5ba95d3d40b02581405452][DEFAULT][/testlink/lib/inventory/setInventory.php][18/Sep/24 21:55:09]
+	[18/Sep/24 21:55:09][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:55:09][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95d3d40b02581405452][DEFAULT][/testlink/lib/inventory/setInventory.php][18/Sep/24 21:55:09][18/Sep/24 21:55:09][took 0.144709 secs]
+[>>][5ba95d3d69893192626211][DEFAULT][/testlink/lib/inventory/setInventory.php][18/Sep/24 21:55:09]
+	[18/Sep/24 21:55:09][ERROR][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		User has not rights to set a device!
+[<<][5ba95d3d69893192626211][DEFAULT][/testlink/lib/inventory/setInventory.php][18/Sep/24 21:55:09][18/Sep/24 21:55:09][took 0.050031 secs]
+	[18/Sep/24 21:56:32][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95d90b01b8742079388][DEFAULT][/testlink/index.php][18/Sep/24 21:56:32][18/Sep/24 21:56:32][took 0.062105 secs]
+[>>][5ba95d90bf66e904537736][DEFAULT][/testlink/index.php][18/Sep/24 21:56:32]
+	[18/Sep/24 21:56:32][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:56:32][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95d90bf66e904537736][DEFAULT][/testlink/index.php][18/Sep/24 21:56:32][18/Sep/24 21:56:32][took 0.073797 secs]
+	[18/Sep/24 21:56:33][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95d90eafdf188551337][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:56:32][18/Sep/24 21:56:33][took 0.065678 secs]
+[>>][5ba95d91072ab503649367][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:56:33]
+	[18/Sep/24 21:56:33][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:56:33][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95d91072ab503649367][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:56:33][18/Sep/24 21:56:33][took 0.11674 secs]
+[>>][5ba95d912875c005708483][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:56:33]
+[<<][5ba95d912875c005708483][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:56:33][18/Sep/24 21:56:33][took 0.026679 secs]
+	[18/Sep/24 21:56:33][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95d90ed8f9554357992][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:56:32][18/Sep/24 21:56:33][took 0.24597 secs]
+[>>][5ba95d91359d6577127964][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:56:33]
+	[18/Sep/24 21:56:33][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:56:33][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95d91359d6577127964][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:56:33][18/Sep/24 21:56:33][took 0.083699 secs]
+[>>][5ba95d914f39b028925729][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:56:33]
+	[18/Sep/24 21:56:33][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5ba95d914f39b028925729][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:56:33][18/Sep/24 21:56:33][took 0.075495 secs]
+	[18/Sep/24 21:58:07][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95def506c2420628148][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:07][18/Sep/24 21:58:07][took 0.062854 secs]
+[>>][5ba95def5fe54692933012][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:07]
+	[18/Sep/24 21:58:07][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:07][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95def5fe54692933012][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:07][18/Sep/24 21:58:07][took 0.128313 secs]
+[>>][5ba95def8e33d970497641][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:07]
+[<<][5ba95def8e33d970497641][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:07][18/Sep/24 21:58:07][took 0.016128 secs]
+	[18/Sep/24 21:58:07][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95defa8f1d624038739][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:07][18/Sep/24 21:58:07][took 0.074445 secs]
+[>>][5ba95defbb389964791168][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:07]
+	[18/Sep/24 21:58:07][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:07][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95defbb389964791168][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:07][18/Sep/24 21:58:07][took 0.076818 secs]
+[>>][5ba95defd3564365097720][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:07]
+	[18/Sep/24 21:58:08][L18N][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		string 'btn_bulk_remove' is not localized for locale 'es_ES'  - using en_GB
+	[18/Sep/24 21:58:08][L18N][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		string 'btn_bulk_copy' is not localized for locale 'es_ES'  - using en_GB
+[<<][5ba95defd3564365097720][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:07][18/Sep/24 21:58:08][took 0.365633 secs]
+	[18/Sep/24 21:58:08][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95defa89b5045003831][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:07][18/Sep/24 21:58:08][took 0.631848 secs]
+[>>][5ba95df04ed7f852309819][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:08]
+	[18/Sep/24 21:58:08][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:08][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95df04ed7f852309819][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:08][18/Sep/24 21:58:08][took 0.117291 secs]
+[>>][5ba95df079ecf109471447][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:08]
+[<<][5ba95df079ecf109471447][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:08][18/Sep/24 21:58:08][took 0.045099 secs]
+	[18/Sep/24 21:58:08][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95df06ed2e814247820][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:08][18/Sep/24 21:58:08][took 0.11895 secs]
+[>>][5ba95df08bfbf562827068][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:08]
+	[18/Sep/24 21:58:08][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:08][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95df08bfbf562827068][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:08][18/Sep/24 21:58:08][took 0.147421 secs]
+[>>][5ba95df0c3045088919801][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:08]
+[<<][5ba95df0c3045088919801][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:08][18/Sep/24 21:58:08][took 0.016892 secs]
+	[18/Sep/24 21:58:12][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95df4b93a0483824824][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:58:12][18/Sep/24 21:58:12][took 0.068275 secs]
+[>>][5ba95df4ca07d832213073][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:58:12]
+	[18/Sep/24 21:58:12][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:12][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95df4ca07d832213073][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:58:12][18/Sep/24 21:58:12][took 0.133377 secs]
+[>>][5ba95df501e28649859075][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:58:13]
+	[18/Sep/24 21:58:13][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5ba95df501e28649859075][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:58:13][18/Sep/24 21:58:13][took 0.067558 secs]
+	[18/Sep/24 21:58:20][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95dfbf0b36671694557][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:19][18/Sep/24 21:58:20][took 0.062045 secs]
+[>>][5ba95dfc0bd67216692753][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:20]
+	[18/Sep/24 21:58:20][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:20][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95dfc0bd67216692753][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.173278 secs]
+[>>][5ba95dfc3f11c316343611][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:20]
+[<<][5ba95dfc3f11c316343611][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.002256 secs]
+	[18/Sep/24 21:58:20][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95dfc4e64f179016667][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.074177 secs]
+[>>][5ba95dfc609cb911685155][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:20]
+	[18/Sep/24 21:58:20][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:20][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95dfc609cb911685155][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.074925 secs]
+[>>][5ba95dfc7bfee012717270][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:20]
+[<<][5ba95dfc7bfee012717270][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.032607 secs]
+	[18/Sep/24 21:58:20][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95dfc512ea608050872][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.261431 secs]
+[>>][5ba95dfc91248650340314][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:20]
+	[18/Sep/24 21:58:20][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:20][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95dfc91248650340314][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.074228 secs]
+[>>][5ba95dfca8a56285376356][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:20]
+[<<][5ba95dfca8a56285376356][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.0047740000000001 secs]
+	[18/Sep/24 21:58:20][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95dfcb2875773333187][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.072243 secs]
+[>>][5ba95dfcc4486162187212][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:20]
+	[18/Sep/24 21:58:20][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:58:20][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95dfcc4486162187212][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.082258 secs]
+[>>][5ba95dfce17a1626368660][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:20]
+[<<][5ba95dfce17a1626368660][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:58:20][18/Sep/24 21:58:20][took 0.001834 secs]
+	[18/Sep/24 21:59:05][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e291007c688037935][DEFAULT][/testlink/lib/requirements/reqSpecEdit.php][18/Sep/24 21:59:05][18/Sep/24 21:59:05][took 0.069853 secs]
+[>>][5ba95e29212e8922735362][DEFAULT][/testlink/lib/requirements/reqSpecEdit.php][18/Sep/24 21:59:05]
+	[18/Sep/24 21:59:05][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:05][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Sep/24 21:59:05][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		User 'usuario' has insufficient rights for 'any' action on 'reqSpecEdit.php'! Exit forced!
+[<<][5ba95e29212e8922735362][DEFAULT][/testlink/lib/requirements/reqSpecEdit.php][18/Sep/24 21:59:05][18/Sep/24 21:59:05][took 0.22991 secs]
+	[18/Sep/24 21:59:05][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e2973727369897395][DEFAULT][/testlink/index.php][18/Sep/24 21:59:05][18/Sep/24 21:59:05][took 0.066247 secs]
+[>>][5ba95e2983c2b997983122][DEFAULT][/testlink/index.php][18/Sep/24 21:59:05]
+	[18/Sep/24 21:59:05][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:05][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e2983c2b997983122][DEFAULT][/testlink/index.php][18/Sep/24 21:59:05][18/Sep/24 21:59:05][took 0.068257 secs]
+	[18/Sep/24 21:59:05][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e29a6850820955353][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:05][18/Sep/24 21:59:05][took 0.072026 secs]
+[>>][5ba95e29b853d335660255][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:05]
+	[18/Sep/24 21:59:05][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:05][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e29b853d335660255][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:05][18/Sep/24 21:59:05][took 0.097943 secs]
+[>>][5ba95e29d7852383533583][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:05]
+[<<][5ba95e29d7852383533583][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:05][18/Sep/24 21:59:05][took 0.02419 secs]
+	[18/Sep/24 21:59:05][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e29aaad9292890599][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:05][18/Sep/24 21:59:05][took 0.24096 secs]
+[>>][5ba95e29e59b9990345591][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:05]
+	[18/Sep/24 21:59:05][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:05][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e29e59b9990345591][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:05][18/Sep/24 21:59:06][took 0.07868 secs]
+[>>][5ba95e2a0e5b0701617661][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:06]
+	[18/Sep/24 21:59:06][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5ba95e2a0e5b0701617661][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:06][18/Sep/24 21:59:06][took 0.242154 secs]
+	[18/Sep/24 21:59:17][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e3561053304543023][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:59:17][18/Sep/24 21:59:17][took 0.066574 secs]
+[>>][5ba95e3571750192264483][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:59:17]
+	[18/Sep/24 21:59:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e3571750192264483][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:59:17][18/Sep/24 21:59:17][took 0.196303 secs]
+[>>][5ba95e35ac9ca233068138][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:59:17]
+[<<][5ba95e35ac9ca233068138][DEFAULT][/testlink/lib/general/frmWorkArea.php][18/Sep/24 21:59:17][18/Sep/24 21:59:17][took 0.00171 secs]
+	[18/Sep/24 21:59:17][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e35bcdd0956578009][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:59:17][18/Sep/24 21:59:17][took 0.078722 secs]
+[>>][5ba95e35d03ff196780367][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:59:17]
+	[18/Sep/24 21:59:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:17][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e35d03ff196780367][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:59:17][18/Sep/24 21:59:17][took 0.107779 secs]
+[>>][5ba95e35eff7f028514264][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:59:17]
+[<<][5ba95e35eff7f028514264][DEFAULT][/lib/requirements/reqSpecListTree.php][18/Sep/24 21:59:17][18/Sep/24 21:59:18][took 0.037985 secs]
+	[18/Sep/24 21:59:18][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e35bcdd0285954899][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:17][18/Sep/24 21:59:18][took 0.276004 secs]
+[>>][5ba95e360c447515746545][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:18]
+	[18/Sep/24 21:59:18][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:18][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e360c447515746545][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:18][18/Sep/24 21:59:18][took 0.130432 secs]
+[>>][5ba95e36331ea878326785][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:18]
+[<<][5ba95e36331ea878326785][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:18][18/Sep/24 21:59:18][took 0.004594 secs]
+	[18/Sep/24 21:59:18][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e3634978448050901][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:59:18][18/Sep/24 21:59:18][took 0.069784 secs]
+[>>][5ba95e3645c30739429458][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:59:18]
+	[18/Sep/24 21:59:18][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:18][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e3645c30739429458][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:59:18][18/Sep/24 21:59:18][took 0.093696 secs]
+[>>][5ba95e3661990311352131][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:59:18]
+[<<][5ba95e3661990311352131][DEFAULT][/testlink/lib/ajax/getrequirementnodes.php][18/Sep/24 21:59:18][18/Sep/24 21:59:18][took 0.001826 secs]
+	[18/Sep/24 21:59:21][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e3900cc1100017268][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:21][18/Sep/24 21:59:21][took 0.065603 secs]
+[>>][5ba95e3910ec8883401751][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:21]
+	[18/Sep/24 21:59:21][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:21][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e3910ec8883401751][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:21][18/Sep/24 21:59:21][took 0.143778 secs]
+[>>][5ba95e393f00a913402164][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:21]
+[<<][5ba95e393f00a913402164][DEFAULT][/lib/project/project_req_spec_mgmt.php][18/Sep/24 21:59:21][18/Sep/24 21:59:21][took 0.002529 secs]
+	[18/Sep/24 21:59:27][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e3ef11ee095999886][DEFAULT][/testlink/lib/requirements/reqSpecEdit.php][18/Sep/24 21:59:26][18/Sep/24 21:59:27][took 0.059204 secs]
+[>>][5ba95e3f0b895421492554][DEFAULT][/testlink/lib/requirements/reqSpecEdit.php][18/Sep/24 21:59:27]
+	[18/Sep/24 21:59:27][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:27][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+	[18/Sep/24 21:59:27][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		User 'usuario' has insufficient rights for 'any' action on 'reqSpecEdit.php'! Exit forced!
+[<<][5ba95e3f0b895421492554][DEFAULT][/testlink/lib/requirements/reqSpecEdit.php][18/Sep/24 21:59:27][18/Sep/24 21:59:27][took 0.20169 secs]
+	[18/Sep/24 21:59:27][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e3f54432436451571][DEFAULT][/testlink/index.php][18/Sep/24 21:59:27][18/Sep/24 21:59:27][took 0.069809 secs]
+[>>][5ba95e3f658bf391931867][DEFAULT][/testlink/index.php][18/Sep/24 21:59:27]
+	[18/Sep/24 21:59:27][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:27][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e3f658bf391931867][DEFAULT][/testlink/index.php][18/Sep/24 21:59:27][18/Sep/24 21:59:27][took 0.067152 secs]
+	[18/Sep/24 21:59:27][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e3f8948d735964615][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:27][18/Sep/24 21:59:27][took 0.067928 secs]
+[>>][5ba95e3f9a03a298467183][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:27]
+	[18/Sep/24 21:59:27][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:27][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e3f9a03a298467183][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:27][18/Sep/24 21:59:27][took 0.089857 secs]
+[>>][5ba95e3fbd436208382809][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:27]
+[<<][5ba95e3fbd436208382809][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/24 21:59:27][18/Sep/24 21:59:27][took 0.031135 secs]
+	[18/Sep/24 21:59:27][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5ba95e3f8c0cf585311970][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:27][18/Sep/24 21:59:27][took 0.266644 secs]
+[>>][5ba95e3fcd472822133242][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:27]
+	[18/Sep/24 21:59:27][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/24 21:59:27][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5ba95e3fcd472822133242][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:27][18/Sep/24 21:59:27][took 0.087889 secs]
+[>>][5ba95e3ff0056479299678][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:27]
+	[18/Sep/24 21:59:28][WARNING][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5ba95e3ff0056479299678][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/24 21:59:27][18/Sep/24 21:59:28][took 0.067719 secs]
+	[18/Sep/25 21:15:45][AUDIT][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		Login for 'usuario' from '::1' succeeded
+[<<][5baaa581aada2819748270][DEFAULT][/testlink/login.php][18/Sep/25 21:15:45][18/Sep/25 21:15:45][took 0.09851 secs]
+	[18/Sep/25 21:15:45][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5baaa581d9ee7004437104][DEFAULT][/testlink/index.php][18/Sep/25 21:15:45][18/Sep/25 21:15:45][took 0.067216 secs]
+[>>][5baaa581ea7fe342172490][DEFAULT][/testlink/index.php][18/Sep/25 21:15:45]
+	[18/Sep/25 21:15:45][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5baaa581ea7fe342172490][DEFAULT][/testlink/index.php][18/Sep/25 21:15:45][18/Sep/25 21:15:46][took 0.083441 secs]
+	[18/Sep/25 21:15:46][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5baaa5821b8ed591685971][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:46][18/Sep/25 21:15:46][took 0.074292 secs]
+[>>][5baaa5822dd1f116706377][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:46]
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5baaa5822dd1f116706377][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:46][18/Sep/25 21:15:46][took 0.074482 secs]
+[>>][5baaa5824550d600390117][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:46]
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 1023
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 1023
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 1023
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\general\navBar.php - Line 123
+	[18/Sep/25 21:15:46][L18N][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		string 'full_text_search' is not localized for locale 'es_ES'  - using en_GB
+[<<][5baaa5824550d600390117][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:46][18/Sep/25 21:15:46][took 0.210734 secs]
+	[18/Sep/25 21:15:46][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5baaa5821d894268722731][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:46][18/Sep/25 21:15:46][took 0.446661 secs]
+[>>][5baaa5828ab3f848231950][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:46]
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5baaa5828ab3f848231950][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:46][18/Sep/25 21:15:46][took 0.077893 secs]
+[>>][5baaa582a6a8f555795826][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:46]
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 1023
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 1023
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 1023
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+count(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\general\mainPage.php - Line 142
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/25 21:15:46][L18N][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		string 'href_exec_ro_access' is not localized for locale 'es_ES'  - using en_GB
+	[18/Sep/25 21:15:46][L18N][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		string 'href_codetracker_management' is not localized for locale 'es_ES'  - using en_GB
+	[18/Sep/25 21:15:46][L18N][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		string 'href_req_monitor_overview' is not localized for locale 'es_ES'  - using en_GB
+	[18/Sep/25 21:15:46][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5baaa582a6a8f555795826][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:46][18/Sep/25 21:15:47][took 0.325955 secs]
+	[18/Sep/25 21:15:49][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5baaa585ba8d9106385423][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:49][18/Sep/25 21:15:49][took 0.069095 secs]
+[>>][5baaa585cb8f8542655688][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:49]
+	[18/Sep/25 21:15:49][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/25 21:15:49][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5baaa585cb8f8542655688][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:49][18/Sep/25 21:15:49][took 0.094508 secs]
+[>>][5baaa585e9e3a116473509][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:49]
+	[18/Sep/25 21:15:49][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined property: stdClass::$prefix - in D:\xampp\htdocs\testlink\lib\general\navBar.php - Line 182
+[<<][5baaa585e9e3a116473509][DEFAULT][/testlink/lib/general/navBar.php][18/Sep/25 21:15:49][18/Sep/25 21:15:50][took 0.080543 secs]
+	[18/Sep/25 21:15:50][WARNING][<nosession>][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+session_set_cookie_params(): Cannot change session cookie parameters when session is active - in D:\xampp\htdocs\testlink\lib\functions\common.php - Line 280
+[<<][5baaa58620b05916930079][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:50][18/Sep/25 21:15:50][took 0.07939 secs]
+[>>][5baaa58634395460382503][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:50]
+	[18/Sep/25 21:15:50][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 343
+	[18/Sep/25 21:15:50][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 2]
+		E_WARNING
+sizeof(): Parameter must be an array or an object that implements Countable - in D:\xampp\htdocs\testlink\lib\functions\tlUser.class.php - Line 387
+[<<][5baaa58634395460382503][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:50][18/Sep/25 21:15:50][took 0.080352 secs]
+[>>][5baaa5864f72f223114375][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:50]
+	[18/Sep/25 21:15:50][WARNING][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 2]
+		E_NOTICE
+Undefined index: platform_view - in D:\xampp\htdocs\testlink\gui\templates_c\f5f91b5ea6e9ae89c7d9cc5b952cb4c4410b7c42.file.mainPageLeft.tpl.php - Line 205
+[<<][5baaa5864f72f223114375][DEFAULT][/testlink/lib/general/mainPage.php][18/Sep/25 21:15:50][18/Sep/25 21:15:50][took 0.093444 secs]

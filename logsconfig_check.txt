@@ -1,5 +1,5 @@
-¡Se debería cambiar la contraseña por defecto para la cuenta 'admin'!
-Revisa los siguiente pasrámetros del e-mail:
+You should change the default password for the 'admin' account!
+Check following parameters of email feature:
 tl_admin_email
 from_email
 return_path_email

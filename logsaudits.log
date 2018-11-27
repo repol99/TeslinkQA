@@ -30,3 +30,317 @@
 		Logout of 'admin'
 	[18/Aug/17 03:10:21][AUDIT][b3rojgmb5mljlftgjmopn05ptl][GUI - Proyecto de Pruebas ID : 1]
 		Login for 'admin' from '::1' succeeded
+	[18/Sep/24 21:09:37][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[18/Sep/24 21:09:42][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[18/Sep/24 21:09:47][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[18/Sep/24 21:10:01][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[18/Sep/24 21:10:07][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[18/Sep/24 21:10:13][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[18/Sep/24 21:22:48][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 1]
+		User 'admin' was saved
+	[18/Sep/24 21:23:51][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Test Project ID : 1]
+		User 'admin' was saved
+	[18/Sep/24 21:25:28][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 1]
+		Logout of 'admin'
+	[18/Sep/24 21:25:34][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[18/Sep/24 21:25:40][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 1]
+		Logout of 'admin'
+	[18/Sep/24 21:25:46][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[18/Sep/24 21:26:29][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 1]
+		All user roles were unassigned from the Test Project with id 'Testlink'
+	[18/Sep/24 21:26:29][AUDIT][53esh2303bg76k2hii29p6akeg][GUI]
+		Test Project 'Testlink' was deleted
+	[18/Sep/24 21:31:12][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Test Project 'Testing Lubricentro' was created
+	[18/Sep/24 21:34:09][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		User 'usuario' was created
+	[18/Sep/24 21:36:30][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Test Project 'Testing Lubricentro' - Test Plan 'Plan de prueba 1' was created
+	[18/Sep/24 21:36:56][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Test Project 'Testing Lubricentro' - Test Plan 'Plan de prueba 2' was created
+	[18/Sep/24 21:36:56][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		User 'admin' was assigned the role 'admin' to the Test Plan 'Plan de prueba 2'
+	[18/Sep/24 21:40:39][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Test Project 'Testing Lubricentro' - Test Plan 'Plan de prueba 1' - Build 'Build plan de prueba 1' was created
+	[18/Sep/24 21:43:49][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Logout of 'admin'
+	[18/Sep/24 21:43:59][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Login for 'usuario' from '::1' succeeded
+	[18/Sep/24 21:44:20][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[18/Sep/24 21:46:14][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Test Project 'Testing Lubricentro' - Test Plan 'Plan de prueba 1' - Build 'Build plan de prueba 1 tester' was created
+	[18/Sep/24 21:47:46][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Critica' was created
+	[18/Sep/24 21:48:01][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Critica' was saved
+	[18/Sep/24 21:48:47][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Alta' was created
+	[18/Sep/24 21:49:01][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Media' was created
+	[18/Sep/24 21:49:13][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Baja' was created
+	[18/Sep/24 21:49:50][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		Keyword 'Baja' was saved
+	[18/Sep/24 21:56:01][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		A new device Localhost/lubricentro was created - Test Project Testing Lubricentro.
+	[18/Sep/24 21:59:05][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		User 'usuario' has insufficient rights for 'any' action on 'reqSpecEdit.php'! Exit forced!
+	[18/Sep/24 21:59:27][AUDIT][53esh2303bg76k2hii29p6akeg][GUI - Proyecto de Pruebas ID : 2]
+		User 'usuario' has insufficient rights for 'any' action on 'reqSpecEdit.php'! Exit forced!
+	[18/Sep/24 22:01:48][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Test Project 'Testing Lubricentro' - Requirement specification 'Especificacion de Requisitos 01' was created
+	[18/Sep/24 22:16:56][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ1' was created
+	[18/Sep/24 22:18:11][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ2' was created
+	[18/Sep/24 22:19:10][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ3' was created
+	[18/Sep/24 22:19:56][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ02' was saved
+	[18/Sep/24 22:20:14][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ03' was saved
+	[18/Sep/24 22:20:27][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ01' was saved
+	[18/Sep/24 22:22:07][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ04' was created
+	[18/Sep/24 22:24:28][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ05' was created
+	[18/Sep/24 22:31:37][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement with title 'Requisito 01 Informativo' was assigned to the Test Case 'Requisito 01 Informativo [1]'
+	[18/Sep/24 22:31:44][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Requirement with title 'Requisito 01 Informativo' was assigned to the Test Case 'Requisito 01 Informativo [2]'
+	[18/Sep/24 22:35:02][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		Test Project 'Testing Lubricentro 2' was created
+	[18/Sep/24 22:47:01][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Proyecto de Pruebas ID : 2]
+		User 'admin' was saved
+	[18/Sep/24 23:04:35][AUDIT][0vn9o9pi1jqmm8g4a1mgnpl4ra][GUI - Test Project ID : 2]
+		Keyword 'Critica' was assigned to the Test Case 'tc01-Titulo Principal'
+	[18/Sep/25 21:09:03][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Test Project ID : 25]
+		Login for 'admin' from '::1' succeeded
+	[18/Sep/25 21:15:45][AUDIT][ouls7h19fcg7dkf35o72ofon5g][GUI - Proyecto de Pruebas ID : 25]
+		Login for 'usuario' from '::1' succeeded
+	[18/Sep/25 21:16:54][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Test Project ID : 2]
+		User 'admin' was saved
+	[18/Sep/25 21:17:02][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Testausprojektit ID : 2]
+		User 'admin' was saved
+	[18/Sep/25 21:18:33][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ-06' was created
+	[18/Sep/25 21:19:35][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ07' was created
+	[18/Sep/25 21:19:47][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ07' was saved
+	[18/Sep/25 21:20:02][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Proyecto de Pruebas ID : 2]
+		Requirement 'REQ06' was saved
+	[18/Sep/25 21:29:43][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Proyecto de Pruebas ID : 2]
+		User 'admin' was saved
+	[18/Sep/25 21:33:22][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Test Project ID : 2]
+		Keyword 'Critica' was assigned to the Test Case 'tc2 Imágenes lubricentro'
+	[18/Sep/25 22:32:29][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Test Project ID : 2]
+		Keyword 'Critica' was assigned to the Test Case 'TC01-Logo de la tienda'
+	[18/Sep/25 22:42:52][AUDIT][mgvalp5rbokva48467opufqia6][GUI - Test Project ID : 2]
+		Keyword 'Critica' was assigned to the Test Case 'TC03-Menu Principal Superior'
+	[18/Sep/28 17:43:37][AUDIT][60ncfefcjl7pmenp6m6p7reu26][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[18/Sep/28 17:45:55][AUDIT][60ncfefcjl7pmenp6m6p7reu26][GUI - Test Project ID : 2]
+		Keyword 'Critica' was assigned to the Test Case 'TC04-Carrusel'
+	[18/Oct/1 21:15:35][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 25]
+		Login for 'admin' from '::1' succeeded
+	[18/Oct/2 21:16:58][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[18/Oct/2 21:20:57][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 2]
+		Test Project 'Testing Ensys' was created
+	[18/Oct/2 21:24:16][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Login for 'admin' from '10.220.1.179' succeeded
+	[18/Oct/2 21:27:21][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 2]
+		Keyword 'Critica' was created
+	[18/Oct/2 21:27:39][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 2]
+		Keyword 'Alta' was created
+	[18/Oct/2 21:27:50][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 2]
+		Keyword 'Media' was created
+	[18/Oct/2 21:27:59][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 2]
+		Keyword 'Baja' was created
+	[18/Oct/2 21:35:21][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-01 Ingreso al sitio'
+	[18/Oct/2 21:35:44][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-01 Video Vigilancia'
+	[18/Oct/2 21:38:01][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Test Case 'EN-2' has been deleted.
+	[18/Oct/2 21:38:30][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-01 Favicon de la Empresa'
+	[18/Oct/2 21:38:55][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-01 Video Vigilancia'
+	[18/Oct/2 21:41:43][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-02 Titulo de pestaña'
+	[18/Oct/2 21:45:29][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-03 Logo de la empresa'
+	[18/Oct/2 21:49:29][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-01 Redes Wi-Fi'
+	[18/Oct/2 21:50:09][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-04 Menú principal horizontal'
+	[18/Oct/2 21:55:35][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-03 Alarmas Comunitarias'
+	[18/Oct/2 21:57:37][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-04 Consultorias'
+	[18/Oct/2 21:58:04][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-05 Slider'
+	[18/Oct/2 22:04:38][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-05 Imagen Video Vigilancia'
+	[18/Oct/2 22:10:55][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-06 Imagen Redes Wi-Fi'
+	[18/Oct/2 22:12:03][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-07 Imagen Alarmas Comunitarias'
+	[18/Oct/2 22:13:25][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-08 Imagen Consultorias'
+	[18/Oct/2 22:16:00][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-09 Proyectos Destacados'
+	[18/Oct/2 22:18:36][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-01 Inicio'
+	[18/Oct/2 22:24:43][AUDIT][eokc0n3eobjqqnt2e7u085vbme][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-10 Proyectos Destacados Seleccionar Proyecto'
+	[18/Oct/2 22:26:41][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-02 Empresa'
+	[18/Oct/2 22:29:43][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-02 Servicios'
+	[18/Oct/2 22:31:44][AUDIT][6frds501akou9bknemmvpvntes][GUI - Test Project ID : 66]
+		Keyword 'Critica' was assigned to the Test Case 'CP-02 Proyectos Destacados'
+	[18/Oct/8 21:21:50][AUDIT][2go7e3jeo7rv0lhvselicle65u][GUI - Test Project ID : 66]
+		Login for 'admin' from '::1' succeeded
+	[18/Oct/8 21:22:57][AUDIT][2go7e3jeo7rv0lhvselicle65u][GUI - Test Project ID : 66]
+		Test Project 'Clase3' was created
+	[18/Oct/8 21:23:50][AUDIT][2go7e3jeo7rv0lhvselicle65u][GUI - Test Project ID : 169]
+		Test Project 'Clase3' - Test Plan 'Test Plan Clase 3' was created
+	[18/Oct/8 21:24:14][AUDIT][2go7e3jeo7rv0lhvselicle65u][GUI - Test Project ID : 169]
+		Test Project 'Clase3' - Test Plan 'Test Plan Clase 3' - Build 'Clase 3' was created
+	[18/Nov/21 20:19:45][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[18/Nov/21 20:19:55][AUDIT][mkfpbffnvojvv39fc9n9ncnfke][GUI - Test Project ID : 169]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/21 20:23:28][AUDIT][mkfpbffnvojvv39fc9n9ncnfke][GUI - Test Project ID : 169]
+		Test Project 'Testing lubricentro morales' was created
+	[18/Nov/21 20:27:40][AUDIT][mkfpbffnvojvv39fc9n9ncnfke][GUI - Test Project ID : 198]
+		Test Project 'Testing lubricentro morales' - Test Plan 'Test Plan Lubricentro Morales' was created
+	[18/Nov/21 20:45:56][AUDIT][mkfpbffnvojvv39fc9n9ncnfke][GUI - Test Project ID : 198]
+		Test Project 'Testing lubricentro morales' was saved
+	[18/Nov/22 17:18:44][AUDIT][u05gne1hbcd59pdjhgaqfaopje][GUI - Test Project ID : 198]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/22 17:25:25][AUDIT][6u83bhe2lfrbbl5c00oj2qlm77][GUI - Test Project ID : 169]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/22 18:41:35][AUDIT][41irfoq33frdisen8ok5e5pgf3][GUI - Test Project ID : 169]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/23 16:43:50][AUDIT][ak97noo7j68l48blobq5ngb0jo][GUI - Test Project ID : 198]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/23 17:16:24][AUDIT][er9rg706ekophi15be92ef95e5][GUI - Test Project ID : 169]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/23 21:57:07][AUDIT][6q90cfcdgtntgj1146ls4f50c4][GUI - Test Project ID : 198]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/24 06:02:43][AUDIT][gjcma3uqotd3dtsf5f4a1bobpn][GUI - Test Project ID : 169]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/24 18:55:32][AUDIT][ic2rei97ut3cb2k8aepeduaov8][GUI - Test Project ID : 198]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/25 00:11:39][AUDIT][ic2rei97ut3cb2k8aepeduaov8][GUI - Test Project ID : 198]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/26 05:05:38][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 198]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/26 05:14:16][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 198]
+		Test Project 'Testing lubricentro morales' - Test Plan 'Test Plan Lubricentro Morales' - Build 'Release 1' was created
+	[18/Nov/26 05:21:17][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 169]
+		Test Project 'Clase3' - Test Plan 'Test Plan Clase 3' - Build 'Clase 3' was saved
+	[18/Nov/26 05:32:02][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 66]
+		Test Project 'Testing Ensys' - Test Plan 'Ensys' was created
+	[18/Nov/26 05:32:23][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 66]
+		Test Project 'Testing Ensys' - Test Plan 'Ensys' - Build 'Release 1' was created
+	[18/Nov/26 05:34:20][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 169]
+		Test Case 'C3-1 : TC01- Menú Principal Lubricantes' version 1 was added to Test Plan Test Plan Clase 3 - Platform:Chrome
+	[18/Nov/26 05:34:20][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 169]
+		Test Case 'C3-2 : TC02- Submenú Castrol' version 1 was added to Test Plan Test Plan Clase 3 - Platform:Chrome
+	[18/Nov/26 05:34:20][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 169]
+		Test Case 'C3-3 : TC03- Submenú Mobil' version 1 was added to Test Plan Test Plan Clase 3 - Platform:Chrome
+	[18/Nov/26 05:34:20][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 169]
+		Test Case 'C3-4 : TC04 Menú Principal Filtros' version 1 was added to Test Plan Test Plan Clase 3 - Platform:Chrome
+	[18/Nov/26 05:34:20][AUDIT][55hdk21ch2htbfjlbnh9la3us0][GUI - Test Project ID : 169]
+		Test Case 'C3-5 : TC05 Logo' version 1 was added to Test Plan Test Plan Clase 3 - Platform:Chrome
+	[18/Nov/27 12:54:56][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 169]
+		Login for 'admin' from '::1' succeeded
+	[18/Nov/27 12:55:37][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Project 'Testing lubricentro morales' - Test Plan 'Test Plan Lubricentro Morales' - Build 'Release 1' was deleted
+	[18/Nov/27 12:55:55][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Project 'Testing lubricentro morales' - Test Plan 'Test Plan Lubricentro Morales' - Build 'Build LM' was created
+	[18/Nov/27 12:57:28][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-1 : Página de inicio' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:28][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-2 : Tituló de pestaña y icono' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:28][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-3 : Logo de la tienda' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:28][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-4 : Contacte con nosotros' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:28][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-5 : Inicio sesión' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:28][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-6 : Menú Principal' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:29][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-7 : Sub menú Castrol' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:29][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-8 : SubMenú Mobil' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:29][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-9 : Buscador' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:29][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-10 : Carrusel' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:29][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-11 : Productos destacados' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:29][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-12 : Banner' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:29][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-13 : Footer' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:35][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-14 : lubricantes' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:35][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-15 : Menú lateral' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:35][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-16 : Filtrar por' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:35][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-17 : Ordenar por' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:35][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-18 : Productos' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:35][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-19 : Detalles productos' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:40][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-20 : Página Castrol' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:40][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-21 : Filtrar por' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:40][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-22 : Ordenar por' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:40][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-23 : Productos' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:41][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-24 : Detalles productos' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:46][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-25 : Página Mobil' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:46][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-26 : Filtrar por' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:46][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-27 : Ordenar por' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:46][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-28 : Productos' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:47][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-29 : Detalles productos' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:52][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-30 : Ingreso sin cuenta' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:52][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-31 : Creacion de cuenta' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:52][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-32 : Inicio de sesión' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:52][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-33 : Recuperar Cuenta' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:56][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-34 : Contacto' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome
+	[18/Nov/27 12:57:56][AUDIT][cavhjmi7h5doaf6ogmdknql4tn][GUI - Test Project ID : 198]
+		Test Case 'LM-35 : Enviar Mensaje' version 1 was added to Test Plan Test Plan Lubricentro Morales - Platform:Chrome

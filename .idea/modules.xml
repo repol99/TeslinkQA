@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../lubricentro/.idea/lubricentro.iml" filepath="$PROJECT_DIR$/../lubricentro/.idea/lubricentro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testlink.iml" filepath="$PROJECT_DIR$/.idea/testlink.iml" />
     </modules>
   </component>
